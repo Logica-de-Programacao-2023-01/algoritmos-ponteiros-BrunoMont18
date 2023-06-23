@@ -15,8 +15,8 @@ func aplicarDesconto(livro *Livro) {
 
 func main() {
 	livro := Livro{
-		Titulo: "Aventuras na Floresta",
-		Autor:  "João Silva",
+		Titulo: "Diário de Banana",
+		Autor:  "Jeff Kinney",
 		Preco:  50.0,
 	}
 
